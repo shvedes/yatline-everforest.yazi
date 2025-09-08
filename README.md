@@ -1,5 +1,5 @@
 # yatline-everforest.yazi
-Everfores theme for Yatline plugin.
+Everforest theme for Yatline plugin.
 
 ## Illustration
 > Everforest Dark:

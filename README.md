@@ -25,7 +25,7 @@ Everforest theme for Yatline plugin.
 
 ### Linux
 ``` bash
-git clone https://github.com/imsi32/yatline-everforest.yazi.git ~/.config/yazi/plugins/yatline-everforest.yazi
+git clone https://github.com/shvedes/yatline-everforest.yazi ~/.config/yazi/plugins/yatline-everforest.yazi
 ```
 
 ## Usage
